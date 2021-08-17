@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# I'm Rabie | Network Administrator & Python Developer
+
+
+## My Skills
+
+- 🐍 Python
+- 🐧 GNU/Linux
+- 🖧 Networking
+
+
