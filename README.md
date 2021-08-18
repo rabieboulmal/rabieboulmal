@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 [3]: https://www.instagram.com/rabie_goodman
 
 
-![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisvillegas&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
+![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisvillegas&theme=rabieboulmal&show_icons=true&count_private=true “Andres’ GutHub Stats”)
 
