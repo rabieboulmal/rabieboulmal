@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Rabie | Network Administrator & Python Developer
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+My name is Rabie Boulmal and I'm a **Network Administrator** and **Python Developer**. I'm from Morocco, living in Salé and currently student at University Mohammed V.
 
 ## My Skills
 
