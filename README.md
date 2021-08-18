@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![alt text][3.1]][3]
 
 [1.1]: http://i.imgur.com/tXSoThF.png
-[2.2]: https://i.imgur.com/8e4Gc7f.png
+[2.2]: https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg
 [3.3]: https://camo.githubusercontent.com/bbd4abd989987618d09384f3f2c291a5a99d4c1ab74e6ea7c53db0d4521edf8e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34332f38352f61352f34333835613534373932313439353466613966616236663161373738363233662e706e67
 
 [1]: https://twitter.com/EibarRabie
