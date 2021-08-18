@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 - 🖧 Networking
 
 ## Socials
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+
 [1.1]: http://i.imgur.com/tXSoThF.png
 [2.2]: https://i.imgur.com/8e4Gc7f.png
 [3.3]: https://i.imgur.com/M6yBwxS.png
