@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 [![alt text][2.2]][2]
 [![alt text][3.3]][3]
 
-[1.1]: http://i.imgur.com/tXSoThF.png
-[2.2]: https://i.imgur.com/JSibq6F.png
-[3.3]: https://i.imgur.com/v2vc2NV.png
+[1.1]: https://drive.google.com/file/d/1UEnp_iIEnTlL7thA5XIVW8A843qZc53H/view?usp=sharing
+[2.2]: https://drive.google.com/file/d/1E1c7ehW1Ox1vYp7dbywwwP09L-7EyXI5/view?usp=sharing
+[3.3]: https://drive.google.com/file/d/1owkgHUF4S-2TQii4uaJbLpwQIjbSAqWG/view?usp=sharing
 
 [1]: https://twitter.com/EibarRabie
 [2]: https://www.linkedin.com/in/rabieboulmal
