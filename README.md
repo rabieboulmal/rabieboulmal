@@ -36,7 +36,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 - 🐧 GNU/Linux
 - 🖧 Networking
 
-## Socials
+## Github Stats
 <!--
 [![alt text][1.1]][1]
 [![alt text][2.2]][2]
