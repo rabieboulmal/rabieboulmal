@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 ## Socials
 [![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
+[![alt text][2.2]][2]
+[![alt text][3.3]][3]
 
 [1.1]: http://i.imgur.com/tXSoThF.png
 [2.2]: https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg
