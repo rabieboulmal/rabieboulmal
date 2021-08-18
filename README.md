@@ -37,6 +37,3 @@ Here are some ideas to get you started:
 [2]: https://www.linkedin.com/in/rabieboulmal
 [3]: https://www.instagram.com/rabie_goodman
 
-
-![Rabie’ GitHub stats](https://github-readme-stats.vercel.app/api?username=rabieboulmal&theme=synthwave&show_icons=true&count_private=true “Rabie’ GutHub Stats”)
-
