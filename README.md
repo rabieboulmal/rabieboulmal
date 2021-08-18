@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Rabie Boulmal and I'm a **Network Administrator** and **Python Developer**. I'm from Morocco, living in Salé and currently student at University Mohammed V.
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
@@ -35,6 +35,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 - 🐍 Python
 - 🐧 GNU/Linux
 - 🖧 Networking
+- 🖥️ Virtualization
+- 👨‍💻 Security
 
 ## Github Stats
 <!--
