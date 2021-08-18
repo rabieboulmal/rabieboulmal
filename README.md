@@ -40,6 +40,7 @@ My name is Rabie Boulmal and I'm a **Network Administrator** and **Python Develo
 [3]: https://www.instagram.com/rabie_goodman
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabieboulmal&theme=radical" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabieboulmal&show_icons=true&theme=radical)
+
 
                                                   
