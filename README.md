@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **rabieboulmal/rabieboulmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I'm Rabie | Network Administrator & Python Developer
+# Hi there, I'm Rabie | Network Administrator & Python Developer
 
 
 ## My Skills
