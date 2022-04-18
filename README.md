@@ -27,7 +27,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/EibarRabie
+[1]: https://twitter.com/rabieboulmal
 [2]: https://www.linkedin.com/in/rabieboulmal
 
 ## My Skills
