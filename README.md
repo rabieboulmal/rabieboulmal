@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Rabie Boulmal and I'm a **Network Administrator** and **Python Developer**. I'm from Morocco, living in Salé and currently student at University Mohammed V.
+My name is Rabie Boulmal from Morocco and I'm a **Linux Administrator** and **Python Developer**.
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
