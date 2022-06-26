@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, folks! 😄
+# Hi, folks! 👋🏻
 
 My name is Rabie Boulmal from Morocco and I'm a **Linux Administrator** and **Python Developer**.
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
