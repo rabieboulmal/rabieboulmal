@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
 
 My name is Rabie Boulmal from Morocco and I'm a **Linux Administrator** and **Python Developer**.
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
